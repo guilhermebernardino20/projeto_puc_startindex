@@ -1,0 +1,5 @@
+.root { -fx-font-size: 13px; }
+.titulo { -fx-font-size: 24px; -fx-font-weight: bold; }
+.marca { -fx-font-size: 18px; -fx-font-weight: bold; -fx-text-fill: white; }
+.barra { -fx-background-color: #2b4a8b; }
+.barra .label { -fx-text-fill: white; }
